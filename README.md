@@ -1,4 +1,4 @@
-# shadowsellerai
+# Chat Bot Flask
 Repository for Chat Bot - React/Typescript + Flask
 
 # Description
