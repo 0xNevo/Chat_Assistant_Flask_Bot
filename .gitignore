@@ -1,0 +1,6 @@
+frontend/node_modules
+backend/tools/__pycache__/
+backend/__pycache__/
+backend/agents/__pycache__/
+.venv
+.env

@@ -1,0 +1,10 @@
+Flask==2.3.2
+flask[async]
+openai==1.2.4
+openai[datalib]
+requests
+python-dotenv
+azure-search-documents==11.4.0b8
+azure-identity
+halo
+azure-cosmos
